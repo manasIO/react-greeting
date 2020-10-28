@@ -1,0 +1,25 @@
+body {
+  margin: auto;
+  background-color: lightblue;
+  color: blue;
+  font-family: 'Anton', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+h1 {
+  padding: 40px;
+  background-color: violet;
+  border-radius: 20px;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+
+span {
+  color: brown;
+}
